@@ -7,3 +7,22 @@
 [![Code Coverage](https://scrutinizer-ci.com/g/nulldevelopmenthr/TeeGee/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/nulldevelopmenthr/TeeGee/?branch=master)
 
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/nulldevelopmenthr/TeeGee/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/nulldevelopmenthr/TeeGee/?branch=master)
+
+
+
+code
+rootPath:       /application/src/Vendor/MyBundle/
+rootNamespace:  Vendor\MyBundle
+
+unit test
+rootPath:       /application/src/Vendor/MyBundle/Tests/Unit/
+rootNamespace:  Vendor\MyBundle\Tests\Unit
+
+integration test
+rootPath:       /application/src/Vendor/MyBundle/Tests/Integration/
+rootNamespace:  Vendor\MyBundle\Tests\Integration
+
+functional test
+rootPath:       /application/src/Vendor/MyBundle/Tests/Functional/
+rootNamespace:  Vendor\MyBundle\Tests\Functional
+
